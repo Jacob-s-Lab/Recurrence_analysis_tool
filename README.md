@@ -1,2 +1,2 @@
 # Recurrence_analysis_tool
-This is the tool for analyze from VCF files to Variant-based or Gene-based recurrence array.
+This is a pyhton script to generate Variant-based or Gene-based recurrence array from VCF file.
